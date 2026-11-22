@@ -10,3 +10,5 @@ transformers
 gradio
 ipywidgets
 ipykernel
+torch
+torchvision
